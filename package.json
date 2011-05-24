@@ -1,0 +1,8 @@
+{
+    "name": "armstrong.apps.places",
+    "version": "0.1.0",
+    "description": "Geographic places for Armstrong CMS",
+    "install_requires": [
+      "Django==1.3"
+    ]
+}
